@@ -1,0 +1,5 @@
+/node_modules/
+yarn.lock
+Map PNG.png
+oldMap/map.json
+oldMap/map2.json

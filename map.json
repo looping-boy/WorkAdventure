@@ -1690,11 +1690,7 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "firstgid":2964,
-         "source":"testtile.tsx"
-        }, 
+        },
         {
          "columns":25,
          "firstgid":2964,
